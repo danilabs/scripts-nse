@@ -59,7 +59,7 @@ PORT    STATE SERVICE
 |   Device: 192.168.0.X MAC: 5c:97:X:X:X:X IP: 192.168.0.X
 
 ```
-#ADB P.DGA4001N a.ka HomeStation
+#ADB P.DGA4001N a.k.a HomeStation
 Telefonica-Spain is starting to rent a new ADB P.DGA4001N router to the spanish costumers. This new router is coming with a new firmware version.
 This bug has been found by [DaniLabs](https://www.github.com/danilabs/)
 
