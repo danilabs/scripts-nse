@@ -9,13 +9,13 @@ This bug has been found by [VicenDominguez](https://www.github.com/vicendomingue
 Basically, it is not validating the session cookie in some administration webpages.
 So, It is possible to get direct information from those urls in any router open to internet.
 
-* http://<IP>/html_253s/api/ntwk/WlanBasic
-* http://<IP>/html_253s/api/system/diagnose_internet
-* http://<IP>/html_253s/api/system/hostinfo?type=ethhost
-* http://<IP>/html_253s/api/system/hostinfo?type=guesthost
-* http://<IP>/html_253s/api/system/hostinfo?type=homehost
-* http://<IP>/html_253s/api/system/hostinfo?type=wifihost
-* http://<IP>/html_253s/api/system/wizardcfg
+* http://IPhtml_253s/api/ntwk/WlanBasic
+* http://IP/html_253s/api/system/diagnose_internet
+* http://IP/html_253s/api/system/hostinfo?type=ethhost
+* http://IP/html_253s/api/system/hostinfo?type=guesthost
+* http://IP/html_253s/api/system/hostinfo?type=homehost
+* http://IP/html_253s/api/system/hostinfo?type=wifihost
+* http://IP/html_253s/api/system/wizardcfg
 
 ##Usage
 ```
@@ -38,9 +38,9 @@ This bug has been found by [DaniLabs](https://www.github.com/danilabs/)
 Basically, it is not validating the session cookie in some administration webpages.
 So, It is possible to get direct information from those urls in any router open to internet.
 
-* http://<IP>/getWifiInfo.jx
-* http://<IP>/listDevices.jx
-* http://<IP>/infoApplications.jx
+* http://IP/getWifiInfo.jx
+* http://IP/listDevices.jx
+* http://IP/infoApplications.jx
 
 ##Usage
 ```
@@ -67,9 +67,9 @@ This bug has been found by [DaniLabs](https://www.github.com/danilabs/)
 Basically, it is not validating the session cookie in some administration webpages.
 So, It is possible to get direct information from those urls in any router open to internet.
 
-* http://<IP>/getWifiInfo.jx
-* http://<IP>/listDevices.jx
-* http://<IP>/infoApplications.jx
+* http://IP/getWifiInfo.jx
+* http://IP/listDevices.jx
+* http://IP/infoApplications.jx
 
 Add the credentials by default are admin / 1234
 ##Usage
