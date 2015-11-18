@@ -1,6 +1,6 @@
 -- The Head Section --
 description = [[Script to detect the pre-schooler vulnerability from HG253s v2 Vodafone Spain.]]
-author = "@vicendominguez a.k.a |QuasaR| and modify by @danilabs"
+author = "@vicendominguez a.k.a |QuasaR| and modified by @danilabs"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 categories = {"default", "safe"}
 
