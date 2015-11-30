@@ -1,6 +1,6 @@
 -- The Head Section --
 description = [[Script to detect disclosure information vulnerability from Comtrend VG 8050 Telefonica Spain.]]
-author = "@danilabs"
+author = "@vicendominguez a.k.a |QuasaR| and modified by @danilabs"
 license = "Same as Nmap. http://nmap.org/book/man-legal.html"
 categories = {"default", "safe"}
 
