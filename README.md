@@ -1,9 +1,12 @@
 # What is it?
 Some NSE scripts to search information from routers.
 
+The author of this scripts are [VicenDominguez](https://www.github.com/vicendominguez/). He found the 0-Day on Huawei I only modified for two others.
+
+The author of this script is not responsible for its use.
+
 #Huawei HG253s v2
 Vodafone-Spain is starting to rent a new Huawei HG253v2 router to the spanish costumers. This new router is coming with a new firmware version.
-This bug has been found by [VicenDominguez](https://www.github.com/vicendominguez/)
 
 ##Vulnerability
 Basically, it is not validating the session cookie in some administration webpages.
